@@ -1,6 +1,6 @@
-name = "redirecting-cloudlare"
+name = "redirecting-cloudflare"
 type = "javascript"
-account_id = ""
+account_id = "dd822675446b4c5ae3e926aa4e586626"
 workers_dev = true
 route = ""
 zone_id = ""
